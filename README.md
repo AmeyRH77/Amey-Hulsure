@@ -3,7 +3,7 @@ Hi there !
 Here are some random facts about me:
 
 🔭 I’m currently working on PowerBi and Tableu projects
-🌱 I’m currently learning Machine Learning, Deep Learning & NLP
+🌱 I’m currently learning Machine Learning, Deep Learning & NLP.
 👯 I’m looking to collaborate on freelancing projects
 💬 Ask me about Data Analysis and Data Visulaization things
 ⚡ Mantra: "Believe in yourself and do your karma (action), and success will follow you."
